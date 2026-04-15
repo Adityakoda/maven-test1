@@ -2,7 +2,7 @@ package com.example.javamavenjunithelloworld;
 
 public class Utility {
 
-    public static void agit add .ditya() {
+    public static void aditya() {
         System.out.println("I am Aditya");
     }
 
